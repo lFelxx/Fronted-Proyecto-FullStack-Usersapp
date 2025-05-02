@@ -7,11 +7,11 @@ Este proyecto es una aplicación Full Stack para la gestión de usuarios, donde 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/screenshots/image-login.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/screenshots/list-users.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/screenshots/register-users.png)
 
 ## 🔨 Features
 
@@ -33,7 +33,7 @@ Este proyecto es una aplicación Full Stack para la gestión de usuarios, donde 
 - CSS
 - HTML
 - SweetAlert (Swal)
-  
+
 **Backend**
 - Spring Boot
 - JWT (JSON Web Tokens): **Para la autenticación y validación de credenciales.**
