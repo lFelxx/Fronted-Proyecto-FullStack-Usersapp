@@ -1,0 +1,81 @@
+/* Card general */
+.card {
+    border-radius: 12px;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* Encabezado */
+.card-header {
+    background-color: #6c757d; /* Bootstrap secondary */
+    color: white;
+    padding: 1rem 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+/* Tabla */
+.table {
+    margin-bottom: 0;
+    font-size: 0.95rem;
+}
+
+.table th,
+.table td {
+    padding: 0.9rem 1rem;
+    vertical-align: middle;
+    border-top: 1px solid #dee2e6;
+}
+
+/* Encabezado de la tabla */
+.table-dark th {
+    background-color: #343a40;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+/* Fila hover */
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+    transition: background-color 0.3s ease;
+}
+
+/* Íconos */
+.bi {
+    font-size: 1rem;
+    color: #495057;
+    transition: color 0.2s;
+}
+
+.bi:hover {
+    color: #0d6efd;
+    cursor: pointer;
+}
+
+/* Centrado de tabla */
+.table th,
+.table td {
+    text-align: center;
+}
+
+/* Responsive (opcional) */
+@media (max-width: 768px) {
+    .table th,
+    .table td {
+        font-size: 0.85rem;
+        padding: 0.6rem;
+    }
+
+    .card-header h4 {
+        font-size: 1.1rem;
+    }
+}
+
+.login-title i {
+    font-size: 2.5rem;  /* Ajusta el tamaño según lo que necesites */
+}
