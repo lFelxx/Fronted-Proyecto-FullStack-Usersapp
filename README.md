@@ -11,6 +11,8 @@ Este proyecto es una aplicación Full Stack para la gestión de usuarios, donde 
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## 🔨 Features
 
 - **Registro de Usuarios:** Permite a los nuevos usuarios registrarse en el sistema.
