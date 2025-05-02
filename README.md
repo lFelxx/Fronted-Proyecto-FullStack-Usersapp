@@ -31,6 +31,7 @@ Este proyecto es una aplicación Full Stack para la gestión de usuarios, donde 
 - CSS
 - HTML
 - SweetAlert (Swal)
+  
 **Backend**
 - Spring Boot
 - JWT (JSON Web Tokens): **Para la autenticación y validación de credenciales.**
